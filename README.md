@@ -3,9 +3,10 @@
  <div>
    <a href="https://github.com/Jhenrique1122">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhenrique1122&theme=vue-dark&show_icons=true&hide_border=false&count_private=false"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenrique1122&layout=compact&langs_count=6&theme=tokyonight"/>
+       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhenrique1122&theme=vue-dark&hide_border=false"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenrique1122&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
-https://github-readme-stats.vercel.app/api?username=Jhenrique1122&theme=vue-dark&show_icons=true&hide_border=false&count_private=false
+
     
 <div style="display: inline_block"><br>
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
